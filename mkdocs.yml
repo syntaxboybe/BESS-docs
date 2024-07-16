@@ -1,0 +1,69 @@
+copyright: Copyright &copy; 2023-Presemt B.E.S
+use_directory_urls: false
+site_name: Barangay E-service System
+site_description: The Barangay E-service System in Poblacion Naawan
+repo_url: https://github.com/syntaxboybe/Barangay-E-service-System
+repo_name: syntaxboybe/BES
+docs_dir: docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: deep blue
+      accent: deep purple
+    
+    # palette toggle for lightmode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: deep blue
+      accent: deep purple
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/syntaxboybe
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/syntaxboybe
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/syntaxboybe/
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright: |
+  Copyright &copy; 2023-Present <a href= https://github.com/syntaxboybe/Barangay-E-service-System  target="_blank" rel="noopener">B.E.S</a>
