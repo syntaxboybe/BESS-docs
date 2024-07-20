@@ -1,13 +1,7 @@
 # Homepage
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is initial documentation for the project Barangay E-service System
 
-## Example Code Annotation
+### Website Reference
 
-### Code Block
-
-Some 'code' goes here.```
-
-```
-php --version
-```
+For full documentation visit [mkdocs.org](https://www.mkdocs.org)
