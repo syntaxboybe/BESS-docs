@@ -2,7 +2,7 @@ copyright: Copyright &copy; 2023-Presemt B.E.S
 use_directory_urls: false
 site_name: Barangay E-service System
 site_description: The Barangay E-service System in Poblacion Naawan
-repo_url: https://github.com/syntaxboybe/Barangay-E-service-System
+repo_url: https://github.com/syntaxboybe/BES-docs
 repo_name: syntaxboybe/BES
 docs_dir: docs
 theme:
@@ -66,4 +66,4 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: |
-  Copyright &copy; 2023-Present <a href= https://github.com/syntaxboybe/Barangay-E-service-System  target="_blank" rel="noopener">B.E.S</a>
+  Copyright &copy; 2023-Present <a href= https://github.com/syntaxboybe/BES-docs  target="_blank" rel="noopener">B.E.S</a>

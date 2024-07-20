@@ -1,10 +1,3 @@
 # Getting Started
 
-## Sample Code Annotation
-
-Some 'code' here
-
-```
-php --version
-
-```
+- Read the [introduction](Introduction.md).
