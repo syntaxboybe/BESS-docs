@@ -1,3 +1,3 @@
 # Getting Started
 
-- Read the [introduction](Introduction.md).
+- Kindly read the [introduction](Introduction.md).
