@@ -1,7 +1,7 @@
 copyright: Copyright &copy; 2023-Presemt B.E.S
 use_directory_urls: false
-site_name: Barangay E-service System
-site_description: The Barangay E-service System in Poblacion Naawan
+site_name: Barangay E-Service System
+site_description: The Barangay E-Service System in Poblacion Naawan
 repo_url: https://github.com/syntaxboybe/BESS
 repo_name: syntaxboybe/BESS
 docs_dir: docs

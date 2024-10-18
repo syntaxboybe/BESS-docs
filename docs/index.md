@@ -1,6 +1,6 @@
 # Homepage
 
-This is initial documentation for the project Barangay E-service System
+This is initial documentation for the project Barangay E-Service System
 
 ### Website Reference
 
