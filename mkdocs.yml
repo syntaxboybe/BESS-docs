@@ -66,4 +66,4 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: |
-  Copyright &copy; 2023-Present <a href= https://github.com/syntaxboybe/BES-docs  target="_blank" rel="noopener">B.E.S</a>
+  Copyright &copy; 2023-Present <a href= https://github.com/syntaxboybe/BESS-docs  target="_blank" rel="noopener">BESS-docs</a>
